@@ -1,0 +1,5 @@
+type Hero {
+  id: Int! @id
+  age: String!
+  name: String!
+}
